@@ -1,5 +1,4 @@
 # Belly Button
-###### Module 12. Bootcamp Javascrip
 __________________________________
 
 # Overview
